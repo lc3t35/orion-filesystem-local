@@ -58,7 +58,7 @@ if (Meteor.isClient) {
             } else {
               // recreate upload file pattern
               var fileName = file.collectionName + '-' + file._id + '-' + file.original.name;
-              var fileUrl = Meteor.absoluteUrl() + 'thumbs/' + fileName;
+              var fileUrl = Meteor.absoluteUrl() + 'files/' + fileName;
               success(fileUrl);
             }
         })
