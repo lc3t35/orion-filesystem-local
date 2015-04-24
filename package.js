@@ -9,8 +9,8 @@ Package.onUse(function(api) {
   api.versionsFrom('1.0');
 
   api.use([
-    'orionjs:core@1.0.0',
-    'orionjs:filesystem@1.0.0',
+    'orionjs:core',
+    'orionjs:filesystem',
     'cfs:standard-packages',
     'cfs:filesystem',
     'underscore'
