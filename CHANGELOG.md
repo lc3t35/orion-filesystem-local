@@ -1,7 +1,7 @@
 Orion Filesystem-local
 ================
 
-This is the changelog for ```lc3t35:filesystem-local```.
+This is the changelog for ```lc3t35:orion-filesystem-local```.
 
 ### 0.1.0
 

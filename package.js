@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'lc3t35:filesystem-local',
+  name: 'lc3t35:orion-filesystem-local',
   summary: 'Local storage for orion:filesystem',
   version: '0.1.0',
-  git: 'https://github.com/lc3t35/filesystem-local'
+  git: 'https://github.com/lc3t35/orion-filesystem-local'
 });
 
 Package.onUse(function(api) {
